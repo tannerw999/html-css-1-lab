@@ -1,0 +1,25 @@
+header {
+    height: 100px;
+    background-color: goldenrod;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    color: black;
+    padding: 10px 50px;
+  }
+
+footer {
+    background-color: goldenrod;
+    color: black;
+    height: 20px;
+}
+
+body {
+    background: black;
+    color: white;
+}
+
+.bottomPicture {
+    display: flex;
+    padding: 50px;
+}
